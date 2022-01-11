@@ -10,3 +10,13 @@ img{
     display: block;
     width: 100%;
 }
+body{
+font-family: 'Barlow', sans-serif;
+font-family: 'Jost', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+#banner{
+    background-image: url(../img/banner_bg.jpg);
+    height: 500px;
+}
